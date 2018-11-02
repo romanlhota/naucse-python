@@ -1,12 +1,10 @@
 print("")
 hrac = input('Zadej svoje jméno: ')
 print("")
-print("")
-print("")
 print("Tak ty jsi", hrac, ". Ahoj.")
 dotaz = "Můžeme hrát? "
 
-
+print('něco')
 for i in range(100):
     print("")
     start = input(dotaz)
