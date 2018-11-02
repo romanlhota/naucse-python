@@ -1,5 +1,7 @@
 print("")
-hrac = input("Zadej svoje jméno: ")
+hrac = input('Zadej svoje jméno: ')
+print("")
+print("")
 print("")
 print("Tak ty jsi", hrac, ". Ahoj.")
 dotaz = "Můžeme hrát? "
